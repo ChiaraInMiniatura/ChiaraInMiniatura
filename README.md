@@ -16,6 +16,7 @@ Sviluppatrice web junior in transizione verso lo sviluppo full stack moderno. Pr
 * Frontend: HTML5, CSS3, Bootstrap 5, JavaScript (ES6+)
 * Backend: PHP (OOP, PDO)
 * Database: MySQL
+* CMS: WordPress (Bedrock, Sage, Acorn, Blade)
 
 **Strumenti:** Git, GitHub, npm
 
@@ -25,4 +26,7 @@ Sviluppatrice web junior in transizione verso lo sviluppo full stack moderno. Pr
 
 🎾 [Gestionale Campi Padel](https://github.com/ChiaraInMiniatura/Gestionale_campi_padel) — sistema di gestione prenotazioni per centro sportivo. Backend PHP/MySQL con architettura OOP, calendario prenotazioni su 5 campi, dashboard statistica con Chart.js, autenticazione basata su ruoli.
 
+🌉 [Fondazione Ponti](https://github.com/ChiaraInMiniatura/fondazione-ponti) — sito per una fondazione umanitaria, costruito su stack WordPress enterprise (Bedrock, Sage, Acorn, template Blade). Archivio progetti filtrabile via Vue 3 senza reload di pagina, form di candidatura volontari con validazione e protezione anti-spam, form di donazione. Stack: WordPress, PHP, Blade, Vue 3, Tailwind CSS v4, Vite.
+
 📫 Contattami: chiarag295@gmail.com
+
